@@ -131,7 +131,8 @@ st.set_page_config(page_title="Scholarship Rule-Based System", layout="wide")
 st.title("🎓 Scholarship Eligibility Rule-Based System")
 st.caption("Enter student details, edit rules (optional), and evaluate scholarship eligibility.")
 
-----------------------------
+
+
 
 with st.sidebar:
     st.header("Applicant Information")
